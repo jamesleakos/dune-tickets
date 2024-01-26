@@ -62,6 +62,6 @@ while True:
     if check_availability():
         send_text("Dune 2 tickets are available now.")
         break
-    time.sleep(9) 
+    time.sleep(60) 
 
 # check_availability()
